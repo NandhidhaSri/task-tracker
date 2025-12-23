@@ -1,3 +1,4 @@
+
 TASK TRACKER -FULL STACK PROJECT
 
 OVERVIEW
@@ -20,4 +21,12 @@ OVERVIEW
     TECH -JAVA , SPRING BOOT, REST APIs, DATABASE,MYSQL.
     LAYER-FRONTEND
     TECH -HTML,CSS,JAVASCRIPT,VERSION CONTROL,GIT,GITHUB
+    ----
+
+    SCREENSHOTS
+
+     HOME PAGE :
+    <img width="1366" height="768" alt="TASK TRACKER 1" src="https://github.com/user-attachments/assets/bd579708-0ce8-4ee3-83a6-284a2d72a7da" />
+     ADD TASK :
+     <img width="1366" height="768" alt="TASK TRACKER 2" src="https://github.com/user-attachments/assets/c6ee298c-db60-44b5-a623-19767e530aed" />
 
